@@ -1,5 +1,6 @@
 # WarZone
 Steps:
+
 1->One computer will run the server.py file 
 
 2->If the players are not on the same pc as server then the players have to change the value of self.host to the ip address of the server.IP address of the server can be found by running the 'ipconfig' command on the server command prompt. 
