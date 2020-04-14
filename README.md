@@ -1,4 +1,11 @@
 # WarZone
+
+WarZone is basically a Multiplayer Shooting game which can be played by connecting 2 laptops via Socket Programming.
+This game had many features like
+Timer and Pause Button
+Chat Button
+Background Music etc.
+
 Steps:
 
 1->One computer will run the server.py file 
