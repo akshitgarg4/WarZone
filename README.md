@@ -3,11 +3,30 @@
 WarZone is basically a Multiplayer Shooting game which can be played by connecting 2 laptops via Socket Programming.
 This game had many features like
 
-Timer and Pause Button
+<img src="images/start.png">
 
-Chat Button
+Game(Timer) does not start untill everyone has joined.
 
-Background Music etc.
+<img src="images/wait.png">
+
+You can pause the game whenever you want.
+
+<img src="images/pause.png">
+
+You can send the message anytime from the game screen to your opponent.
+The message will be displayed on top of the screen for a few seconds.
+
+<img src="images/chat.png">
+
+You can use spacebar to fire.
+Arrow keys to move right/left/jump.
+
+<img src="images/jump.png">
+
+At last scores will be shown.
+
+<img src="images/over.png">
+
 
 
 
